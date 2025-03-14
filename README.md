@@ -1,2 +1,5 @@
-# api_sequence_dataset
-api sequence dataset with arguments and labels
+数据集下载链接：https://pan.quark.cn/s/2cecf0d93c00
+
+如有需要，请将工作单位、联系方式、使用目的以及实验室截图发往作者邮箱694717399@qq.com获取验证码。
+
+为保护作者的知识产权，论文正式发表且实验结项后才会对数据集完全公开，请谅解。
